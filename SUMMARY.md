@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [Reference Docs](reference/README.md)
-* [Resources](resources/README.md)
+* [Reference Docs](reference-docs.md)
+* [Resources](resources.md)
+
