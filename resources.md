@@ -5,6 +5,7 @@
 * [Reference docs cheatsheet](https://opsdocs.azurewebsites.net/en-us/opsdocs/reference/cheatsheet-reference-content?branch=master)
 * [Top level operations explained](https://github.com/Azure/adx-documentation-pr/blob/master/swagger/TopLevelSwaggerOperations_Explained.md) \(highly recommend\)
 * [VSTS template to onboard a new reference section](https://mseng.visualstudio.com/CSI/Content%20Production%20Service/_workitems/create/User%20Story?templateId=d6e16b15-930c-4bf5-9b42-7faf39a85d99)
+* [Visual flowchart of documentation generation](https://review.docs.microsoft.com/en-us/help/contribute-ref/media/azure_ref_autogen_flow.jpg?branch=master)
 
 
 
