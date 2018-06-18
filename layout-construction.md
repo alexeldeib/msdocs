@@ -32,3 +32,7 @@ The mapping.json file also contains some paths to files which describe the conte
 
 Notice that service\_toc only contains the non-reference nodes. It appear the publishing process generates reference documentation and table of contents from the Swagger directly using the operation groups. If no service\_toc exists or if it is empty, then the operation groups become the top level set of nodes under the service \(AKS is a good example here\). If service\_toc contains configuration in it, then the generation processes it and uses it as one top level node under the service, and it places all the auto-generated swagger content under a new Reference node \(e.g. App Insights, API Management\). 
 
+![Two nodes, hand written in top node and swagger-generated operation groups below.](.gitbook/assets/screenshot.4.jpg)
+
+![No hand written docs, so top level nodes are swagger-generated operation groups.](.gitbook/assets/screenshot.5.jpg)
+
